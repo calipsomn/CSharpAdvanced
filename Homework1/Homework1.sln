@@ -5,6 +5,10 @@ VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Arrays", "01_Arrays\01_Arrays.csproj", "{810BDC7E-BD82-4247-9B5A-357A34555BDF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_CompareArrays", "02_CompareArrays\02_CompareArrays.csproj", "{3066CBA2-FAFA-43A7-8BEB-F9881B9570BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_CompareCharArrays", "03_CompareCharArrays\03_CompareCharArrays.csproj", "{8C3C06E9-5250-4440-88A6-55D61E3AC4BA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{810BDC7E-BD82-4247-9B5A-357A34555BDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{810BDC7E-BD82-4247-9B5A-357A34555BDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{810BDC7E-BD82-4247-9B5A-357A34555BDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3066CBA2-FAFA-43A7-8BEB-F9881B9570BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3066CBA2-FAFA-43A7-8BEB-F9881B9570BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3066CBA2-FAFA-43A7-8BEB-F9881B9570BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3066CBA2-FAFA-43A7-8BEB-F9881B9570BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C3C06E9-5250-4440-88A6-55D61E3AC4BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C3C06E9-5250-4440-88A6-55D61E3AC4BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C3C06E9-5250-4440-88A6-55D61E3AC4BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C3C06E9-5250-4440-88A6-55D61E3AC4BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
