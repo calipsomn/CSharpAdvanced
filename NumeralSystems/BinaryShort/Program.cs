@@ -26,8 +26,6 @@ namespace BinaryShort
                 currentNumber /= 2;
             }
             result.Insert(0, new string('0', 16 - result.Length));
-            if (shortNumber < 0)
-                result != result;
             return result.ToString();
         }
     }
